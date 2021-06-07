@@ -1,4 +1,4 @@
-# NFCWalltet-Mockup
+# NFCWallet-Mockup
 Mockup NFC wallet aplication developed for educational purposes.
 
 The main objective pursued when development started was to better understand the inner operative of Mifare tags (especially Mifare Classic) at a low level and to exemplify several typical attacks on Mifare tags. Due to the global pandemic of COVID-19 it was not possible to test some of the mentioned attacks on legitemate readers, thus the need of coding this application to grasp how these attacks would work.
